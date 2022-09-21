@@ -13,3 +13,4 @@ Exercícios de Java do 2º semestre de ADS da Fatec
     - importação das funções no arquivo principal
     - tratamentos de erros
     - mesmo exercício da última aula, mas otimizado
+7. Criação de um jogo da velha

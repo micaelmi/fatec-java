@@ -14,3 +14,4 @@ Exercícios de Java do 2º semestre de ADS da Fatec
     - tratamentos de erros
     - mesmo exercício da última aula, mas otimizado
 7. Criação de um jogo da velha
+8. Criação de um jogo da forca
